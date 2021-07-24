@@ -17,9 +17,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
-1. Numbered
-2. List
+### My Favourite Foods
+1. Shawarma
+2. Sushi
+3. Pizza
+4. Doughnuts
 
 **Bold** and _Italic_ and `Code` text
 
